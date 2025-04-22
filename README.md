@@ -1,6 +1,6 @@
 # Recipe Buddy
 
-![Recipe Buddy Logo](Screens/logo.png) <!-- Replace with your app's logo if available -->
+<img src="Screens/logo.png" alt="Recipe Buddy Logo" width="150">
 
 Recipe Buddy ist eine mobile Anwendung, die entwickelt wurde, um Nutzern das Entdecken, Verwalten und Kochen von Rezepten zu erleichtern. Mit einer personalisierten Benutzererfahrung bietet die App Funktionen wie Benutzerprofile, Lieblingsrezepte, Erinnerungen und detaillierte Rezeptanleitungen. Egal, ob du Anfänger oder erfahrener Koch bist – Recipe Buddy macht Kochen einfach und unterhaltsam.
 
@@ -33,39 +33,39 @@ Recipe Buddy ist dein perfekter Begleiter in der Küche. Mit einer benutzerfreun
 Hier sind einige Screenshots, die die Hauptfunktionen von Recipe Buddy zeigen:
 
 ### 1. Login-Bildschirm
-![Login Screen](Screens/loginscreen.png) <!-- Replace with Image 3: Login interface -->
+<img src="Screens/loginscreen.png" alt="Login Screen" width="150">
 *Caption: Der Login-Bildschirm, auf dem Benutzer ihre Zugangsdaten eingeben oder sich registrieren können.*
 
 ### 2. Startbildschirm
-![Home Screen](Screens/homescreen.png) <!-- Replace with Image 6: Home screen with greetings and recipe suggestions -->
+<img src="Screens/Homescreen.png" alt="Home Screen" width="150">
 *Caption: Der Startbildschirm mit personalisierter Begrüßung, Rezeptvorschlägen und Lieblingsrezepten.*
 
 ### 3. Rezeptliste
-![Recipes List](Screens/recipes.png) <!-- Replace with Image 8: Recipes list screen -->
+<img src="Screens/recipes.png" alt="Recipes List" width="150">
 *Caption: Durchstöbere eine Vielzahl von Rezepten mit Bildern und Beschreibungen.*
 
 ### 4. Detaillierte Rezeptansicht
-![Detailed Recipe View](Screens/details.png) <!-- Replace with Image 7: Detailed recipe view for Spaghetti Carbonara -->
+<img src="Screens/details.png" alt="Detailed Recipe View" width="150">
 *Caption: Detaillierte Informationen zu einem Rezept, einschließlich Zutaten und Zubereitungszeiten.*
 
 ### 5. Einstellungsmenü
-![Settings Menu](Screens/settingsmain.png) <!-- Replace with Image 0: Settings section -->
+<img src="Screens/settingsmain.png" alt="Settings Menu" width="150">
 *Caption: Zugriff auf verschiedene Einstellungsoptionen wie Profilmanagement, Favoriten und Erinnerungen.*
 
 ### 6. Erinnerungen
-![Reminders Section](Screens/reminders.png) <!-- Replace with Image 1: Reminders or notifications section -->
+<img src="Screens/reminders.png" alt="Reminders Section" width="150">
 *Caption: Setze und verwalte Erinnerungen für Kochaufgaben oder neue Rezepte.*
 
 ### 7. Speicherverwaltung
-![Storage Management](Screens/storage.png) <!-- Replace with Image 5: Storage management screen -->
+<img src="Screens/Storage.png" alt="Storage Management" width="150">
 *Caption: Überwache und verwalte den Speicherbedarf der App und Firebase-Daten.*
 
 ### 8. API-Informationen
-![API Information](Screens/apidaten.png) <!-- Replace with Image 4: API information screen -->
+<img src="Screens/apidaten.png" alt="API Information" width="150">
 *Caption: Details zu den in der App verwendeten APIs für Rezeptdaten und Authentifizierung.*
 
 ### 9. Zusätzliche Einstellungen
-![Additional Settings](Screens/settings.png) <!-- Replace with Image 2: Settings menu with dark mode, language, etc. -->
+<img src="Screens/settings.png" alt="Settings" width="150">
 *Caption: Passe dein App-Erlebnis mit Einstellungen wie Dark Mode und Sprachauswahl an.*
 
 ## Nutzung
